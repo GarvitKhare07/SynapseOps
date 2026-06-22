@@ -66,8 +66,6 @@ SynapseOps/
 │   ├── uploads/
 │   └── main.py
 │
-├── requirements.txt
-├── .env
 └── README.md
 ```
 
@@ -206,14 +204,3 @@ git push origin feature/your-feature
 
 5. Open a Pull Request.
 
----
-
-## 📄 License
-
-This project is intended for educational, research, and hackathon purposes. Feel free to modify and extend it as needed.
-
----
-
-## 👨‍💻 Team
-
-Built with ❤️ by the **SynapseOps Team**.
